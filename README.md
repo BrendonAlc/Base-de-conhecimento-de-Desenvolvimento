@@ -1,4 +1,4 @@
-# Base-de-conhecimento-de-Desenvolvimento
+# Base de conhecimento para Desenvolvimento
 Repoitório Criado para anotações de conhecimentos necessários para os primeiros passos.
 
 ## Link úteis
