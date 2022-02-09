@@ -1,0 +1,9 @@
+Link para Download do Git: https://git-scm.com/downloads
+O git bash é um terminal extendido para otimizar o uso do Git.
+
+Guia de linux para auxiliar no uso do git bash: https://guialinux.uniriotec.br/
+
+Guia do Git e Github para quem está iniciando na comunidade Dev: https://dev.to/womakerscode/git-e-github-guia-rapido-e-comandos-basicos-para-iniciantes-4ile
+
+
+Desafio: Criar o seu próprio repositório
