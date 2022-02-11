@@ -123,4 +123,74 @@ Existem 2 tipos: Estático e dinâmio
 		Junta tudo: arquivos, aplicações e banco de dados.
 		O site precisa de um servidor para ser acessado.
 	Web-service: Interface disponivel para fazer requisições e consultas em banco de dados inacessível (governo,correios). Tente encontrar 
-	na internet como se dá o acesso aos web-services dos correios e do governo para poder visualizar por exemplo, buscar os dados de um CEP e os dados sobre os estudantes.
+	na internet como se dá o acesso aos web-services dos correios e do governo para poder visualizar por exemplo, buscar os dados de um CEP 
+	e os dados sobre os estudantes.
+
+**Principais linguagens**
+
+HTML
+CSS
+JavaScript (Jquery, AJAX, diversas libs)
+PHP
+.NET
+ASP
+Java
+Ruby (on Rails)
+Python
+Perl
+C/C++/C#
+
+**Termos comuns**
+
+404
+Algoritmo
+ALT
+API
+Aplicação
+Back-end
+Biblioteca/dll
+Bootstrap
+Beakpoints
+Browser/navegador
+Bug
+Cache
+Código
+Controle de versáo
+Cookies
+Debug: verificação para saber se não tem nenhuma falha de lógica, segurança.
+Deploy
+Design adaptativo/responsivo: Consegue se adequar a qualquer tipo de proporção de tela
+DNS: Traduto de nome de site para IP ou vice-versa.
+Documentação: Para saber qual a função do código.
+Domínio:
+DPI: Proporção de pontos na tela
+Editor de texto: notepad ++
+Estrutura de dados: Pilha, fila, array, number, char, etc.
+Favicon: Imagem que consta no final do site.
+Fontes: A forma da letra.
+Framework: Ferramentas disponíveis para o desenvolvimento.
+Front-end:
+FTP: Forma de comunicação quase exclusivo para troca de arquivos.
+Full-stack:
+Github/SVN/CVS: Controladores de versões.
+HTTP(S): Protocolo de comunicação utilizado na internet.
+IP:
+Linguagem:
+Meta tags: funções especificas de site.
+Método ágil: Scrum, Kamban.
+Mobile: Celular, table, etc.
+MVC: Model view Controler
+MVP: disponibilizar para que possa ser testado, ja tendo alguma função.
+MySQL: Banco de dados.
+Pixel:
+Resolução: Quantidade de pixel que a tela tem.
+Servidor: Arquivo, aplicação, banco de dados.
+Sistema operacional/SO: Linux, Windowns, android.
+Solução: Gerenciamento do problema relatado, podendo ser várias ferramentas para atender aquele problema relatado pelo cliente.
+SSL: Camada de segurança dos sites.
+UI: Interface visual
+UX: Como o usuário lida com o programa.
+Versão: Versão do software.
+WYSIWYG: (O que você vê é o que você recebe), pequenos editores de textos incluídos em um site (enfeites visuais).
+
+
